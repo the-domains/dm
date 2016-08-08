@@ -1,0 +1,14 @@
+layout_spectrum: 0.535220974124968
+typography_spectrum: 0.24084691237658262
+color:
+  brandStrength: 0.5776813901029527
+  lightness: 0.40653765690512955
+  saturation: 0.7985196448862553
+  rhythmicContrast: 0.20550144207663834
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: DM
