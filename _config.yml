@@ -1,4 +1,3 @@
-layout_spectrum: 0.535220974124968
 typography_spectrum: 0.24084691237658262
 color:
   brandStrength: 0.5776813901029527
@@ -11,4 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.535220974124968
 name: DM
+title: d
+description: Inventor of things
