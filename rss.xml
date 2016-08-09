@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dion McKenzie]]></title>
         <description><![CDATA[Dion McKenzie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 08:41:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 08:43:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a10273a-63a8-4c43-9b62-ecae0288ca03.jpg" alt="Dion">]]></description>
-            <link>undefineddion/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a10273a-63a8-4c43-9b62-ecae0288ca03.jpg" alt="Dion McKenzie">]]></description>
+            <link>https://thegrid.ai/dm/dion/index.html</link>
             <guid isPermaLink="false">506370ef-7d84-4917-8234-c3b20b6293f8</guid>
-            <pubDate>Tue, 09 Aug 2016 08:41:06 GMT</pubDate>
+            <pubDate>Tue, 09 Aug 2016 08:43:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
